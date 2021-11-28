@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* ResetCSS */
+*{
+	margin:0;
+	padding:0;
+}
+span{
+	color:#E4DA21;
+}
+.anhbs4 img{
+	width:100%;
+	padding-top:30%
+}
